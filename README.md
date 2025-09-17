@@ -2,7 +2,7 @@
 (short sentence)
 # 🚀 My Freelance Script
 
-This is a simple Python tool that [say in one line what it does, e.g. "cleans CSV files" or "auto-generates reports"].
+This is a simple Python tool that [e.g. "cleans CSV files" or "auto-generates reports"].
 
 ---
 
