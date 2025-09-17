@@ -27,4 +27,4 @@ If you need help after purchase, email me:
 
 https://paypal.me/cash app.me → @Tamara-Thomson-11
 freddycuka5
-yourname@email.com → freddycuka94@gmail.com
+freddycuka94@gmail.com
