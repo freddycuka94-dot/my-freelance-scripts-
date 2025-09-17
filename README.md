@@ -27,3 +27,8 @@ If you need help after purchase, email me:
 
 [![](https://img.shields.io/badge/Buy-Now-blue)](https://gumroad.com/yourlink)
 [![](https://img.shields.io/badge/Donate-PayPal-green)](https://paypal.me/yourname)
+https://gumroad.com/yourlink → your Gumroad link
+
+https://paypal.me/yourname → your PayPal.me link
+
+yourname@email.com → your email
