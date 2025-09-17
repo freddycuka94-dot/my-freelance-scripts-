@@ -21,14 +21,10 @@ Only **$5** — instant download here:
 
 ## 📧 Support
 If you need help after purchase, email me:  
-**yourname@email.com**
+**freddycuka63@gmail.com**
 
 ---
 
-[![](https://img.shields.io/badge/Buy-Now-blue)](https://gumroad.com/yourlink)
-[![](https://img.shields.io/badge/Donate-PayPal-green)](https://paypal.me/yourname)
-https://gumroad.com/yourlink → your Gumroad link
-
-https://paypal.me/yourname → your PayPal.me link
-
-yourname@email.com → your email
+https://paypal.me/cash app.me → @Tamara-Thomson-11
+freddycuka5
+yourname@email.com → freddycuka94@gmail.com
